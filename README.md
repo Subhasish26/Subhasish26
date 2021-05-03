@@ -1,4 +1,4 @@
-### Hi there, I'm Subhasish 👋
+# Hi there, I'm Subhasish 👋
 
 ## I'm a Student, Learner, and Gaming Enthusiast!!
 
@@ -11,9 +11,9 @@
 - ✒️ Other than Elctronics & Data, I also have a keen interest in writing about Socio-Political topics.
 - 📬You can contact me from below. (I'm just lazy to add something twice).
 
-### Spotify Playing behind while I'm writing this 🎧
+#### Spotify Playing behind while I'm writing this 🎧
 
-### Connect with me or see my work:
+## Connect with me or see my work:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
@@ -24,7 +24,7 @@
 
 <br />
 
-### Languages and Tools:
+## Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
