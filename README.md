@@ -1,23 +1,19 @@
 ### Hi there, I'm Subhasish 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
-
 ## I'm a Student, Learner, and Gaming Enthusiast!!
 
 - 💡 I am currently working on my B.Tech & M.tech in Electronics & Communication Engineering from IIITDM Kancheepuram
-- 📈 Future Data Analyst.
-- 🌱 I’m currently "Berozgaar" (thats sarcasm, I'm a full time student) 🤣
+- 📈 Future Data Analyst (not sure between analyst, scientist, or something similar).
+- 📁 I’m currently "Berozgaar" (thats sarcasm, I'm a full time student) 🤣
 - 📕 I’m currently learning everything I can (just a confused soul).
-- ⚽ 2021 Goals: To break my own record of coffees consumed in 2020.
-- 😃 Fun fact: I love to just lay down (thats actually sleeping😴).
+- ⚽ 2021 Goals: To break my own record of coffees consumed ☕ in 2020.
+- 😃 Fun fact: I just love to lay down (thats actually sleeping😴).
 - ✒️ Other than Elctronics & Data, I also have a keen interest in writing about Socio-Political topics.
+- 📬You can contact me from below. (I'm just lazy to add something twice).
 
-### Spotify Playing 🎧
+### Spotify Playing behind while I'm writing this 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
-
-### Connect with me:
+### Connect with me or see my work:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
