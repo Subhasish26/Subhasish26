@@ -18,8 +18,7 @@
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[LinkedIn][https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1620066816~hmac=0e06db15ae7f1363e354964d826d2fa3](www.linkedin.com/in/subhasish-pramanik-2605
-)
+![174857](https://user-images.githubusercontent.com/77603676/116918502-9d92fa00-ac6d-11eb-8816-8b887522d6ba.png)(www.linkedin.com/in/subhasish-pramanik-2605)
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
