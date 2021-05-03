@@ -1,6 +1,6 @@
 # Hi there, I'm Subhasish 👋
 
-## I'm a Student, Learner, and Gaming Enthusiast!!
+## I'm a Student, Learner, and Gamer (well you can call me NOOB)!!
 
 - 💡 I am currently working on my B.Tech & M.tech in Electronics & Communication Engineering from IIITDM Kancheepuram
 - 📈 Future Data Analyst (not sure between analyst, scientist, or something similar).
