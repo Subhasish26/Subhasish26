@@ -15,13 +15,11 @@
 
 ## Connect with me:
 
-[<img align="left" alt="" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/lakhi-kumari/)
-[<img align="left" alt="" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/lakhi.kumari.731/)
-<a href="https://www.linkedin.com/in/samarthmr/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40" /></a>
-<a href="https://www.instagram.com/samarthmr10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/mrsamarth18" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" height="30" width="40" /></a>
-<a href="https://github.com/SamarthMR" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" height="30" width="40" /></a>
-<a href="https://twitter.com/Samarthmr10" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Samarthmr10" height="30" width="40" /></a>
+[<img align="left" alt="LinkedIn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/subhasish-pramanik-2605/)
+[<img align="left" alt="Facebook" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://https://www.facebook.com/profile.php?id=100012138075395/)
+[<img align="left" alt="Instagram" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" />](https://https://www.instagram.com/subh_2605//)
+
+
 
 <br />
 
@@ -32,6 +30,4 @@
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />]()
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />]()
 [<img align="left" alt="Jupyter" width="26px" src="https://jupyter.org/assets/nav_logo.svg" />]()
-[<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />]()
-[<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />]()
-[<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />]()
+[<img align="left" alt="Anaconda" width="26px" src="https://www.psych.mcgill.ca/labs/mogillab/anaconda2/pkgs/anaconda-navigator-1.4.3-py27_0/lib/python2.7/site-packages/anaconda_navigator/static/images/anaconda-icon-1024x1024.png" />]()
