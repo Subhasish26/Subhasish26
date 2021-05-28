@@ -1,9 +1,9 @@
 # Hi there, I'm Subhasish 👋
 
-## I'm a Student, a Learner, and a Gamer (you can call me NOOB)!!
+## I'm a Student and a Learner.
 
 - 💡 I am currently working on my B.Tech & M.tech in Electronics & Communication Engineering from IIITDM Kancheepuram
-- 📈 Future Data Analyst (not sure between analyst, scientist, or something similar).
+- 📈 Future Data Analyst (not so sure about my career).
 - 📁 I’m currently "Berozgaar" (thats sarcasm, I'm a full time student) 🤣
 - 📕 I’m currently learning everything I can (just a confused soul).
 - ⚽ 2021 Goals: To break my own record of coffees consumed ☕ in 2020.
